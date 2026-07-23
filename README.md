@@ -6,7 +6,8 @@
 
 Transforming raw bookstore data into actionable business insights using SQL.
 
-<img src="Images/Banner.png" width="100%">
+<img src="Online_Book_Store_analytics/Images
+/banner.png" width="100%">
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
