@@ -6,8 +6,7 @@
 
 Transforming raw bookstore data into actionable business insights using SQL.
 
-<img src="Online_Book_Store_analytics/Images
-/banner.png" width="100%">
+<img src="Images/banner.png" alt="Online Book Store Analytics banner" width="100%">
 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=mysql)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
@@ -318,24 +317,19 @@ Business Insights Report
 
 ```text
 1Online Book Store Analytics/
-
 ├── Dataset/
 │   ├── Books.csv
 │   ├── Customers.csv
 │   └── Orders.csv
-│
 ├── Documentation/
 │   ├── ER_diagram.png
 │   ├── Linkedln post.png
 │   ├── Online Book Store Analytics Documentation.pdf
 │   └── Online Book Store.png
-│
 ├── Images/
 │   └── banner.png
-│
 ├── Insights/
 │   └── Online_Book_Store_Analytics_Report.pdf
-│
 ├── SQL_Scipts/
 │   ├── 01_Creates_Database.sql
 │   ├── 02_ Data_Import_validation.sql
@@ -345,7 +339,6 @@ Business Insights Report
 │   ├── 06_adv_analytics.sql
 │   ├── 07_View_index.sql
 │   └── 08_Business_Insights.sql
-│
 └── README.md
 ```
 
@@ -414,11 +407,11 @@ Through this project, I strengthened my understanding of:
 
 💼 Aspiring Data Analyst
 
-🔗 LinkedIn: *(Add Your LinkedIn URL)*
+🔗 LinkedIn: [rutik-tetare-3154b3281](https://www.linkedin.com/in/rutik-tetare-3154b3281/)
 
-💻 GitHub: *(Add Your GitHub URL)*
+💻 GitHub: [Rutik-tetare29](https://github.com/Rutik-tetare29)
 
-📧 Email: *(Add Your Email)*
+📧 Email: [rutiktetare@gmail.com](mailto:rutiktetare@gmail.com)
 
 ---
 
